@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Hrushikesh
+Author - Hrushikesh Chikalge
